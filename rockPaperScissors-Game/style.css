@@ -122,6 +122,7 @@ button:hover {
   left: 0;
   right: 0;
   bottom: 0;
+  background-color: #07cc00;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -139,7 +140,7 @@ button:hover {
 }
 
 input:checked + .slider {
-  background-color: #07cc00;
+  background-color: #eb0909;
 }
 
 input:focus + .slider {
